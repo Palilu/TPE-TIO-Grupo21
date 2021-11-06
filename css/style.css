@@ -24,7 +24,6 @@ header {
 main {
     display: flex;
     flex-flow: row wrap;
-    align-items: center;
     justify-content: space-evenly;
     background-color: #606060;
     color: white;
