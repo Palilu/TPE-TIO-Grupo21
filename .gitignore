@@ -1,0 +1,18 @@
+# Clases compiladas
+*.class
+
+# Logs
+*.log
+
+.idea
+out
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
