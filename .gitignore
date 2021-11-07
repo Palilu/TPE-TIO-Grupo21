@@ -16,3 +16,6 @@ out
 *.tar.gz
 *.rar
 *.iml
+
+# TPE TIO
+ignorada
